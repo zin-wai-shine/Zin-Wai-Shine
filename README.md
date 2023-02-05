@@ -1,4 +1,4 @@
-![logo](https://github.com/zin-wai-shine/Zin-Wai-Shine/blob/main/img1.png)
+
 <h1 align="center">Hi 👋, I'm Zin Wai Shine</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Myanmar.</h3>
 
