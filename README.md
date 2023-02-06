@@ -33,7 +33,7 @@
 
 <a align="center" href=""></a>
 
-<h3 align="center"> Languages And Tools For </h3>
+<h3 align="center"> Languages And Tools </h3>
 <div>
 
  <div align="left">
