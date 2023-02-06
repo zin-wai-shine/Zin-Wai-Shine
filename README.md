@@ -15,7 +15,12 @@
 
 </p>
 
-<a align="center" href="https://www.facebook.com/profile.php?id=100048931843264">
+<div align="center">
+
+ <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100048931843264"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <img src="https://img.shields.io/badge/+95 9970957602-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> <a href="https://www.linkedin.com/in/zin-wai-shine-17810b243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img src="https://img.shields.io/badge/+95 9970957602-685EA9?style=for-the-badge&logo=viber&logoColor=white"/>
+
+</div>
+
   
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M48 24C48 10.7438 37.2562 0 24 0C10.7438 0 0 10.7438 0 24C0 35.9813 8.775 45.9094 20.25 47.7094V30.9375H14.1562V24H20.25V18.7125C20.25 12.6984 23.8313 9.375 29.3156 9.375C31.9406 9.375 34.6875 9.84375 34.6875 9.84375V15.75H31.6594C28.6781 15.75 27.75 17.6016 27.75 19.5V24H34.4062L33.3422 30.9375H27.75V47.7094C39.225 45.9094 48 35.9813 48 24Z" fill="#1877F2"/>
