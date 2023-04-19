@@ -11,7 +11,7 @@
  
 <p align="center">
 
-As a junior web developer, I have obtained the Laravel PHP framework, which has been a great asset in creating web
+As a web developer, I have obtained the Laravel PHP framework, which has been a great asset in creating web
 applications. I am practiced with Laravel's main elements, such as routing, middleware, controllers, views, models, and
 migrations.
  
