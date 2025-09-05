@@ -11,19 +11,11 @@
  
 <p align="center">
 
-As a web developer, I have obtained the Laravel PHP framework, which has been a great asset in creating web
-applications. I am practiced with Laravel's main elements, such as routing, middleware, controllers, views, models, and
-migrations.
- 
-During the period I worked with Laravel, I developed a comprehension of software architecture and implemented it in my
-projects. I used the Model-View-Controller (MVC) structure to build scalable programs which are straightforward to
-manage. I have integrated Laravel with MySQL database systems and used relationships between database tables to build
-complex applications.
- 
-In addition to my Laravel experience, I have also developed proficiency in other web development technologies, including
-HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. I have experience with front-end frameworks such as React and plan
-to integrate them with Laravel to build responsive and dynamic web applications. Also, have experience deploying
-applications on Digital Ocean cloud servers.
+With over 5 years of experience in full-stack development, I specialize in building scalable and high-performing web applications using the Laravel PHP framework. I am proficient in Laravel’s core features—including routing, middleware, controllers, models, and migrations—and apply the MVC architecture to deliver clean, maintainable, and efficient solutions.
+
+My expertise includes integrating Laravel with MySQL for optimized database design and implementing complex relationships to support dynamic applications. On the frontend, I work with HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React to create modern, responsive, and user-friendly interfaces.
+
+In addition, I have hands-on experience deploying and managing applications on cloud platforms such as Digital Ocean, ensuring stability, security, and scalability. I am passionate about crafting end-to-end solutions that enhance user experience and drive business results.
  
 </p>
 
