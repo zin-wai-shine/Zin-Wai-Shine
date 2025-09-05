@@ -19,11 +19,6 @@ In addition, I have hands-on experience deploying and managing applications on c
  
 </p>
 
-<div align="center">
-
- <a href="https://github.com/zin-wai-shine/Zin-Wai-Shine/blob/main/email.html"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/+66 627188699-1877F2?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/+95 9970957602-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>   <a href="https://www.linkedin.com/in/zin-wai-shine"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   <img src="https://img.shields.io/badge/+95 9970957602-685EA9?style=for-the-badge&logo=viber&logoColor=white"/>
-
-</div>
 
 
 <h3 align="center"> Languages And Tools </h3>
